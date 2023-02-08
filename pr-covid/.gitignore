@@ -1,0 +1,10 @@
+.Rproj.user
+dashboard/.Rproj.user/shared/notebooks/paths
+.Rhistory
+.RData
+.Ruserdata
+private
+storage
+.DS_Store
+dashboard/rsconnect
+test-dashboard/rsconnect/
