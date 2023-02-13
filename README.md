@@ -4,7 +4,7 @@ El siguiente software permite guardar registros sobre los casos de muerte por CO
 
 ## Informes
 
-Reporte de la Investigación: [aquí](https://docs.google.com/document/d/1q5d7PPDcDYLT32XyMfwETtbtld25Komi4JDmD3Yrz-8/edit?usp=sharing).
+Reporte técnico de la Investigación: [aquí](https://docs.google.com/document/d/1q5d7PPDcDYLT32XyMfwETtbtld25Komi4JDmD3Yrz-8/edit?usp=sharing).
 
 Este proyecto fue basado en el siguiente proyecto original:
 [aquí](https://github.com/rafalab/pr-covid/).
@@ -29,7 +29,7 @@ Los datos extraidos de los datos cruedos están en el directorio `rdas`
 
 * Para extaer los datos de Puerto Rico pueden correr el archivo wrangle-YYYY-MM-DD.R. 
 
-* `prpht.Rmd` creo la [presentación at PRPHT](https://rafalab.github.io/pr-covid/prpht.html).
+* `prpht.Rmd` crea la [presentación at PRPHT](https://rafalab.github.io/pr-covid/prpht.html).
 
 * `wrangle-bioportal-data-2020-07-14.R` crea un resumen diario de positivos y pruebas.
 
