@@ -1,5 +1,5 @@
 ## Tabla de Contenidos:
-- [Introduction](#introduccion)
+- [Introducción](#introduccion)
 - [Informes](#informes)
 - [Preview del Software](#preview)
 - [Datos](#datos)
