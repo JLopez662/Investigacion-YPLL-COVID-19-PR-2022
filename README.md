@@ -4,7 +4,7 @@ El siguiente software permite guardar registros sobre los casos de muerte por CO
 
 ## Informes
 
-Reporte de la Investigación: [aquí](https://docs.google.com/document/d/1q5d7PPDcDYLT32XyMfwETtbtld25Komi4JDmD3Yrz-8/edit?usp=sharing).
+Reporte técnico de la Investigación: [aquí](https://docs.google.com/document/d/1q5d7PPDcDYLT32XyMfwETtbtld25Komi4JDmD3Yrz-8/edit?usp=sharing).
 
 Este proyecto fue basado en el siguiente proyecto original:
 [aquí](https://github.com/rafalab/pr-covid/).
