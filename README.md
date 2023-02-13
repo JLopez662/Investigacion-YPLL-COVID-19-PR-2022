@@ -1,8 +1,16 @@
-## Introducción
+## Tabla de Contenidos:
+- [Introduction](#introduccion)
+- [Informes](#informes)
+- [Preview del Software](#preview)
+- [Datos](#datos)
+- [Código](#código)
+- [Créditos](#créditos)
+
+## Introducción:
 
 El siguiente software permite guardar registros sobre los casos de muerte por COVID-19 en Puerto Rico, el cual nos permite mostrar las tasas de casos de covid por municipio separados por rango de fechas, categorizados entre hombres o mujeres. Para esta implementación se ha usado el entorno de desarrollo integrado de R Studio, con lenguaje R, usando librerías adecuadas como Shiny, el cual nos permite desplegar una aplicación web, y utilizar un servidor local que pueda funcionar desde R Studio. 
 
-## Informes
+## Informes:
 
 Reporte técnico de la Investigación: [aquí](https://docs.google.com/document/d/1q5d7PPDcDYLT32XyMfwETtbtld25Komi4JDmD3Yrz-8/edit?usp=sharing).
 
@@ -21,8 +29,6 @@ Junto a la charla presentada al PRPHT está [aquí](https://rafalab.github.io/pr
   <img src="YPLL-Mujeres-Ultima-Semana.png" style="height: 180px; width: 300px; margin-right: 20px;" />
 </div>
 
-
-
 ## Datos
 
 Todos los datos están en el directorio `data`
@@ -37,7 +43,7 @@ unzip y saque el archivo TestingByDate.csv
 
 Los datos extraidos de los datos cruedos están en el directorio `rdas`
 
-## Codigo
+## Código
 
 * Para extaer los datos de Puerto Rico pueden correr el archivo wrangle-YYYY-MM-DD.R. 
 
