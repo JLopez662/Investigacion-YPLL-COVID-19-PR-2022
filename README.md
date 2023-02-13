@@ -11,6 +11,18 @@ Este proyecto fue basado en el siguiente proyecto original:
 
 Junto a la charla presentada al PRPHT está [aquí](https://rafalab.github.io/pr-covid/prpht.html).
 
+## Preview:
+<div style="display: flex;">
+  <img src="YPLL-Hombres.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="YPLL-Mujeres.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="YPLL-Hombres-3-Meses.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="YPLL-Mujeres-3-Meses.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="YPLL-Hombres-Ultima-Semana.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="YPLL-Mujeres-Ultima-Semana.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+</div>
+
+
+
 ## Datos
 
 Todos los datos están en el directorio `data`
